@@ -1,0 +1,33 @@
+{
+  "blocks": [
+    {
+      "name": "dirt",
+      "id": 1,
+      "texture-all": "dirt",
+      "opaque": true
+    },
+    {
+      "name": "grass",
+      "id": 2,
+      "texture-all": "grass_side",
+      "texture-top": "grass_top",
+      "texture-bottom": "dirt",
+      "opaque": true
+    },
+    {
+      "name": "stone",
+      "id": 3,
+      "texture-all": "stone",
+      "opaque": true
+    },
+    {
+      "name": "debuglamp",
+      "id": 4,
+      "texture-all": "stone",
+      "texture-top": "dirt",
+      "opaque": true,
+      "light-source": true,
+      "light-level": 12
+    }
+  ]
+}

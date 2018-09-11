@@ -1,0 +1,24 @@
+{
+  "config": {
+    "width": 16,
+    "height": 16  },
+
+  "textures": [
+    {
+      "file": "dirt.png",
+      "name": "dirt"
+    },
+    {
+      "file": "grass_top.png",
+      "name": "grass_top"
+    },
+    {
+      "file": "grass_side.png",
+      "name": "grass_side"
+    },
+    {
+      "file": "stone.png",
+      "name": "stone"
+    }
+  ]
+}
